@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
 </p>
 <p align="center" style="font-size:12px;">
-  ok lets be honest I dont really know blender i just have a course for it and same for unreal
+  ok lets be honest I dont really know blender I just have a course for it and same for unreal :3
 </p>
 
 ---
