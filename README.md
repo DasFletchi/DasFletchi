@@ -61,7 +61,7 @@
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DasFletchi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasFletchi&layout=compact&theme=tokyonight" />
 </p>
 
 ---
