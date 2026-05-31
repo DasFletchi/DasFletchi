@@ -82,7 +82,6 @@
 
 - I like ambitious ideas.
 - I do not always like the amount of work they create.
-- I still build them anyway.
 - Regret is temporary. Cool systems are forever.
 
 ---
