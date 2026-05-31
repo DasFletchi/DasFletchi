@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  I make weird things, break them, then pretend it was all part of the plan.
+  I make weird things, break them, then hate myself.
 </p>
 
 ---
