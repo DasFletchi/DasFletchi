@@ -19,8 +19,6 @@
 
 - I like building games, systems, and physics-heavy things that spiral way beyond “small project”.
 - I enjoy the process of making something feel alive, even if the code behind it is one bad decision away from collapse.
-- I care a lot about how things feel, not just how they work.
-- I usually start with a simple idea and somehow end up rewriting half the project. Very normal behavior. Nothing suspicious here.
 
 ---
 
