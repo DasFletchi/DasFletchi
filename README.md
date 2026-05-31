@@ -55,14 +55,6 @@
   ok lets be honest I dont really know blender I just have a course for it and same for unreal :3
 </p>
 
----
-
-
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasFletchi&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
