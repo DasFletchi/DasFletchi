@@ -61,8 +61,7 @@
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dasfletchi&show_icons=true&hide_border=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasfletchi&layout=compact&hide_border=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DasFletchi&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
