@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
 </p>
-
+#- ok lets be honest I dont really know blender i just have a course for it and same for unreal
 ---
 
 ## GitHub stats
