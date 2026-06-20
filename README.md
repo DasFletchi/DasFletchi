@@ -22,24 +22,6 @@
 
 ---
 
-## What I'm into
-
-- Game development
-- Physics systems
-- Multiplayer stuff
-- Sandbox / survival / builder games
-- UI, feel, flow, and making mechanics actually fun
-
----
-
-## Currently messing with
-
-- `Flux` and similar chaotic experiments
-- Physics-heavy gameplay systems
-- Multiplayer architecture that does not implode instantly
-- Ideas I absolutely did not need, but now care about too much
-
----
 
 ## Tech I use
 
@@ -53,16 +35,6 @@
   ok lets be honest I dont really know blender I just have a course for it and same for unreal :3
 </p>
 
-
----
-
-## Some things I actually care about
-
-- mechanics that feel good instantly
-- systems that can be expanded instead of rewritten every week
-- games with personality instead of just “content”
-- making things that people can play their own way
-- no generaive AI in gamedev, if i use it only for coding/I must understand the code myself. Sounds ironic cuz all my public projects are AI slop, but thsoe we're just random hyperfocuses of mine. My real projects are crafted by me and me only.
 
 ---
 
@@ -83,9 +55,6 @@
 - Regret is temporary. Cool systems are forever.
 
 ---
-
-## Contact
-
 - Discord: `@fletchi3`
 
 <p align="center">
