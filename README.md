@@ -48,8 +48,6 @@
 
 ---
 
-## A few honest facts
-
 - I like ambitious ideas.
 - I do not always like the amount of work they create.
 - Regret is temporary. Cool systems are forever.
