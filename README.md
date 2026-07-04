@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Student • Game Dev • Physics enjoyer • Professional overthinker</b>
+  <b>Student • Game Dev • Physics enjoyer • Professional overthinker • Multiplayer?</b>
 </p>
 
 <p align="center">
