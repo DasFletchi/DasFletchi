@@ -53,6 +53,7 @@
   
 ---
 - Discord: `@fletchi3`
+- Email: `hi@fletchi.dev`
 
 <p align="center">
   <i>Built with curiosity, and a concerning amount of scope creep.</i>
