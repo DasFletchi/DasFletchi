@@ -35,17 +35,6 @@
   ok lets be honest I dont really know blender I just have a course for it and same for unreal :3
 </p>
 
-
----
-
-## My projects
-
-<p align="center">
-  <a href="https://github.com/DasFletchi/VerletRopeGDRigidBody"><b>Fork of a C# fork, the stuff i did is buggy af</b></a> •
-  <a href="https://github.com/DasFletchi/NoLoginChat"><b>Free AI Chatbot without tracking or stuff like that</b></a> •
-  <a href="https://github.com/DasFletchi/FletchGames"><b>A no longer maintained games website</b></a>
-</p>
-
 ---
 
 - I like ambitious ideas.
