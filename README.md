@@ -36,7 +36,9 @@
 
 - I like ambitious ideas.
 - I do not always like the amount of work they create.
-  
+
 ---
+
 - Discord: `@fletchi3`
 - Email: `hi@fletchi.dev`
+- YouTube: [@FletchiDev](https://www.youtube.com/@FletchiDev)
