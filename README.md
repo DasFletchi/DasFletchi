@@ -25,7 +25,7 @@ I like building stuff that breaches the unknown and hasn't been made before (I w
 ---
 
 - I like ambitious ideas.
-- I do not always like the amount of work they create.
+- I do not like the amount of work they create.
 
 ---
 
