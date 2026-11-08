@@ -8,17 +8,7 @@
   <b>Student • Game Dev • Physics enjoyer • Professional overthinker • Multiplayer?</b>
 </p>
 
-<p align="center">
-  I make weird things, break them, then hate myself.
-</p>
-
-
----
-
-## About me
-
-- I like building games, systems, and physics-heavy things that spiral way beyond “small project”.
-- I enjoy the process of making something feel alive, even if the code behind it is one hour away from implosion.
+I like building stuff that breaches the unknown and hasn't been made before (I wish I'd make projects that require less thinking 😭)
 
 ---
 
